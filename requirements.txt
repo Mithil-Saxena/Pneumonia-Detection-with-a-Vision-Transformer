@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+datasets
+evaluate
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+opencv-python
+jupyter
